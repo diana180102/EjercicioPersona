@@ -11,6 +11,10 @@ class Persona {
         this.telefono = telefono;
     }
 
+    public Persona() {
+
+    }
+
     //Get y set
     public int getEdad() {
         return edad;
